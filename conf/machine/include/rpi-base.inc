@@ -17,6 +17,7 @@ XSERVER = " \
 RPI_KERNEL_DEVICETREE_OVERLAYS ?= " \
     overlays/overlay_map.dtb \
     overlays/at86rf233.dtbo \
+    overlays/bcm2712d0.dtbo \
     overlays/disable-bt.dtbo \
     overlays/disable-bt-pi5.dtbo \
     overlays/disable-wifi.dtbo \
